@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24021
   title: ཐང་རྒྱལ་རབས་ཀྱི་སྙན་ཚིག་ཁག་སུམ་བརྒྱ།
-  volume: ''
+  volume:
+    907ce029c1cc4a0ca7b96b601001005e:
+      image_group_id: I1KG24098
+      title: Volume 1 of thang rgyal rabs kyi snyan tshig khag sum brgya/
+      volume_number: 1
+      total_pages: 346
   author: ''
+ebook_metadata:
+  title: ཐང་རྒྱལ་རབས་ཀྱི་སྙན་ཚིག་ཁག་སུམ་བརྒྱ།
+  author: ''
+  sku: P008140
+  cover: cover.jpg
+  layers:
+  - pagination
